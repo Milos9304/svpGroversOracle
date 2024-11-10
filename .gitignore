@@ -1,0 +1,8 @@
+*.o
+*.hi
+*.dyn_hi
+*.dyn_o
+
+# executables
+src/svp
+test/test
